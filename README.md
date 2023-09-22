@@ -26,6 +26,7 @@ I am an accomplished Software Engineer with a proven history of achievements, sk
 🥅 Goal-oriented and driven to deliver high-quality software that meets the needs of the business and its customers. Passionate about using technology to solve real-world problems and make a positive impact on the world.
 
 ### :hammer_and_wrench: Languages and Tools
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
@@ -51,6 +52,7 @@ I am an accomplished Software Engineer with a proven history of achievements, sk
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   
 </div>
+
 ---
 ## 🧰: TECHNICAL SKILLS
   # Languages:
@@ -67,7 +69,9 @@ I am an accomplished Software Engineer with a proven history of achievements, sk
      Software Documentation,RESTFul APIs,gRPC,Development Life Cycles (Agile), Build Releases( CI/CD), Writing Unit and Integration Tests
      Git Proficiency,Web-Based Software Engineering,Clean Architecture,Microservices,Kafka,RabbitMQ,MQTT, HIVEMQ
 ---
+
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/priston-muema-01a528142/)
+  
 ---
 
 ### :fire: My Stats :
