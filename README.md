@@ -11,7 +11,7 @@ I am an accomplished Software Engineer with a proven history of achievements, sk
   <tr>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=pristonmuema&count_private=true&show_icons=true&theme=radical&layout=compact" /></td>
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pristonmuema&hide=html&layout=compact&theme=synthwave" /></td>
-    <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?/?username=pristonmuema&hide=html&layout=compact&theme=synthwave" /></td>
+    <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?/?username=pristonmuema&layout=compact&theme=synthwave" /></td>
   </tr>   
 </table>
 </center>
