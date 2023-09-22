@@ -75,7 +75,7 @@ I am an accomplished Software Engineer with a proven history of achievements, sk
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pristonmuema&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pristonmuema&theme=gruvbox&background=000000)](https://git.io/streak-stats)
 
 
 <center>
