@@ -32,7 +32,6 @@ I am an accomplished Software Engineer with a proven history of achievements, sk
      Software Documentation,RESTFul APIs,gRPC,Development Life Cycles (Agile), Build Releases( CI/CD), Writing Unit and Integration Tests
      Git Proficiency,Web-Based Software Engineering,Clean Architecture,Microservices,Kafka,RabbitMQ,MQTT, HIVEMQ
 
-
 <center>
   <table>
   <tr>
