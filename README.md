@@ -2,6 +2,15 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/priston-muema-01a528142/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/PristonMuema">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 ## Hi 👋 I am Priston!  
 
 I am an accomplished Software Engineer with a proven history of achievements, skilled at collaborating with clients, colleagues, and project managers to achieve software engineering goals. I possess a comprehensive grasp of the entire development cycle, including SAFe Agile practices. My expertise lies in leveraging diverse back-end technologies to create and assess code quality. Presently, I am dedicated to enhancing my proficiency in React JS to gain a deeper insight into optimizing API performance.  
@@ -23,8 +32,6 @@ I am an accomplished Software Engineer with a proven history of achievements, sk
      Software Documentation,RESTFul APIs,gRPC,Development Life Cycles (Agile), Build Releases( CI/CD), Writing Unit and Integration Tests
      Git Proficiency,Web-Based Software Engineering,Clean Architecture,Microservices,Kafka,RabbitMQ,MQTT, HIVEMQ
 
-
-- 👨 Know more about me at [LinkedIn](https://www.linkedin.com/in/priston-muema-01a528142/)
 
 <center>
   <table>
