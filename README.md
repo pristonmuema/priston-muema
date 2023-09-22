@@ -40,6 +40,8 @@ I am an accomplished Software Engineer with a proven history of achievements, sk
      Software Documentation,RESTFul APIs,gRPC,Development Life Cycles (Agile), Build Releases( CI/CD), Writing Unit and Integration Tests
      Git Proficiency,Web-Based Software Engineering,Clean Architecture,Microservices,Kafka,RabbitMQ,MQTT, HIVEMQ
 
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/priston-muema-01a528142/)
+
 <center>
   <table>
   <tr>
