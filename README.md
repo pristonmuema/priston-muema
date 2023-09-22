@@ -5,13 +5,13 @@ I am an accomplished Software Engineer with a proven history of achievements, sk
 🥅 Goal-oriented and driven to deliver high-quality software that meets the needs of the business and its customers. Passionate about using technology to solve real-world problems and make a positive impact on the world.
 
 - 👨 Know more about me at [LinkedIn](https://www.linkedin.com/in/priston-muema-01a528142/)
-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pristonmuema&repo=github-readme-stats)]
 
 <center>
   <table>
   <tr>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=pristonmuema&count_private=true&show_icons=true&theme=radical&layout=compact" /></td>
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pristonmuema&hide=html&layout=compact&theme=synthwave" /></td>
+    <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?/?username=pristonmuema&hide=html&layout=compact&theme=synthwave" /></td>
   </tr>   
 </table>
 </center>
