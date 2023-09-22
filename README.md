@@ -51,7 +51,7 @@ I am an accomplished Software Engineer with a proven history of achievements, sk
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   
 </div>
-
+---
 ## 🧰: TECHNICAL SKILLS
   # Languages:
      Java (Frameworks: Quarkus,Akka,Spring boot)
@@ -66,8 +66,13 @@ I am an accomplished Software Engineer with a proven history of achievements, sk
   # Others:
      Software Documentation,RESTFul APIs,gRPC,Development Life Cycles (Agile), Build Releases( CI/CD), Writing Unit and Integration Tests
      Git Proficiency,Web-Based Software Engineering,Clean Architecture,Microservices,Kafka,RabbitMQ,MQTT, HIVEMQ
-
+---
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/priston-muema-01a528142/)
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pristonmuema&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 <center>
   <table>
