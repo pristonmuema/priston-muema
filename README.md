@@ -9,11 +9,15 @@
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=pristonmuema&style=flat-square&color=blue" alt=""/>
+
+  <h1>
+  ## Hi 👋 I am Priston!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 </div>
 
 
-
-## Hi 👋 I am Priston!  
+  
 
 I am an accomplished Software Engineer with a proven history of achievements, skilled at collaborating with clients, colleagues, and project managers to achieve software engineering goals. I possess a comprehensive grasp of the entire development cycle, including SAFe Agile practices. My expertise lies in leveraging diverse back-end technologies to create and assess code quality. Presently, I am dedicated to enhancing my proficiency in React JS to gain a deeper insight into optimizing API performance.  
 
