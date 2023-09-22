@@ -4,7 +4,8 @@ I am an accomplished Software Engineer with a proven history of achievements, sk
 
 🥅 Goal-oriented and driven to deliver high-quality software that meets the needs of the business and its customers. Passionate about using technology to solve real-world problems and make a positive impact on the world.
 
-- 👨 Know more about me at [LinkedIn](https://www.linkedin.com/in/priston-muema-01a528142/) 
+- 👨 Know more about me at [LinkedIn](https://www.linkedin.com/in/priston-muema-01a528142/)
+- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pristonmuema&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <center>
   <table>
