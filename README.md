@@ -21,7 +21,7 @@
 ### :man_technologist: About Me :
   
 
-I am an accomplished Software Engineer with a proven history of achievements, skilled at collaborating with clients, colleagues, and project managers to achieve software engineering goals. I possess a comprehensive grasp of the entire development cycle, including SAFe Agile practices. My expertise lies in leveraging diverse back-end technologies to create and assess code quality. Presently, I am dedicated to enhancing my proficiency in React JS to gain a deeper insight into optimizing API performance.  
+I am an accomplished Software Engineer with a proven history of achievements, skilled at collaborating with clients, colleagues, and project managers to achieve software engineering goals. I possess a comprehensive grasp of the entire development cycle, including SAFe Agile practices. My expertise lies in leveraging diverse back-end technologies to create and assess code quality. Presently, I am dedicated to enhancing my proficiency in Python (Django) and React JS to gain a deeper insight into optimizing API performance.  
 
 🥅 Goal-oriented and driven to deliver high-quality software that meets the needs of the business and its customers. Passionate about using technology to solve real-world problems and make a positive impact on the world.
 
@@ -58,6 +58,7 @@ I am an accomplished Software Engineer with a proven history of achievements, sk
   # Languages:
      Java (Frameworks: Quarkus,Akka,Spring boot)
      Golang (Frameworks: Gin,Gokit,etc), 
+     Python (Django)
      Learning ReactJs
   # Technologies: 
      IntelliJ tools, Kubernetes, Postman, Docker, AWS, ELK Stack, Data Dog, Jenkins, Google cloud platform
